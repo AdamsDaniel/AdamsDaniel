@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [aprendendo-java](https://github.com/AdamsDaniel/aprendendo-java)
 
-- 🌱 I’m currently learning **Java, Python, C++, Springboot, Kotlin**
+- 🌱 I’m currently learning **Java, Python, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamsDaniel](https://github.com/AdamsDaniel)
 
